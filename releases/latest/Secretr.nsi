@@ -1,7 +1,7 @@
 !include "MUI2.nsh"
 
 Name "Secretr"
-OutFile "/home/sujit/Projects/secretr/dist/Secretr_1.0.4_amd64_setup.exe"
+OutFile "/home/sujit/Projects/secretr/dist/Secretr_1.0.7_amd64_setup.exe"
 InstallDir "$PROGRAMFILES\Secretr"
 RequestExecutionLevel admin
 
